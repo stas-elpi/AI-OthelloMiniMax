@@ -1,8 +1,5 @@
 # User vs Computer play Reversi
 
-## Members:  Elpida Stasinou, Dimitris Tzovanis
-
-
 Computer plays Reversi with minimax algorithm (a-b) for acceleration, with variable depth depth. 
 Depending on the depth it can calculate better moves but takes more time to calculate the movement. Results are displayed when the game is over.
 
